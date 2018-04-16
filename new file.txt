@@ -6,11 +6,7 @@ abcd
 
 kkk
 
-<<<<<<< HEAD
-lacsaddsafg  sdc123d1 2 asdfa4eawv
-=======
 lacsaddsafg asdfsdv234 qa wadfasa4eawv
->>>>>>> testconflict2
 
 asdva4ewv 22211qw as svasdvasdv
 
